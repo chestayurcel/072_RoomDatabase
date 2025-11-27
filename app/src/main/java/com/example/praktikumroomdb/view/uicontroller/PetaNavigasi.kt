@@ -10,7 +10,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.praktikumroomdb.view.EntrySiswaScreen
 import com.example.praktikumroomdb.view.HomeScreen
 import com.example.praktikumroomdb.view.route.DestinasiHome
-import com.example.praktikumroomdbview.route.DestinasiEntry
+import com.example.praktikumroomdb.view.route.DestinasiEntry
 
 @Composable
 fun SiswaApp(navController: NavHostController= rememberNavController(), modifier: Modifier){

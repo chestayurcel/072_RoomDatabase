@@ -8,9 +8,6 @@ Halaman Home (setelah input data)
 <img width="1920" height="1080" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/40a10851-21bf-4424-a471-d0e0de5a0989" />
 
 Halaman Detail Siswa
-<img width="1920" height="1080" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/d2cd21a6-cfd2-4528-ab02-b0342c5aa6c8" />
-
-Update Halaman Detail Siswa (tombol edit sudah ada)
 <img width="1920" height="1080" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/61251065-4400-44f3-aefc-34f76eac1397" />
 
 Halaman Edit Siswa

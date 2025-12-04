@@ -10,6 +10,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.praktikumroomdb.view.DetailSiswaScreen
+import com.example.praktikumroomdb.view.EditSiswaScreen
 import com.example.praktikumroomdb.view.EntrySiswaScreen
 import com.example.praktikumroomdb.view.HomeScreen
 import com.example.praktikumroomdb.view.route.DestinasiDetailSiswa

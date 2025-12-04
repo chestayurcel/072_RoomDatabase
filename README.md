@@ -1,4 +1,4 @@
-Halaman Home
+Halaman Home (sebelum input data)
 <img width="1920" height="1080" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/59b7d758-a6b0-43d0-8b98-ac466313b749" />
 
 Halaman Entry
@@ -9,3 +9,12 @@ Halaman Home (setelah input data)
 
 Halaman Detail Siswa
 <img width="1920" height="1080" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/d2cd21a6-cfd2-4528-ab02-b0342c5aa6c8" />
+
+Update Halaman Detail Siswa (tombol edit sudah ada)
+<img width="1920" height="1080" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/61251065-4400-44f3-aefc-34f76eac1397" />
+
+Halaman Edit Siswa
+<img width="1920" height="1080" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/17eeb947-0c19-4519-b035-8d8ecd088cee" />
+
+Halaman Home (setelah update data)
+<img width="1920" height="1080" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/fcf48700-177b-4256-89e4-b3509a105a9d" />

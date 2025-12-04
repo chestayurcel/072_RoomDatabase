@@ -5,6 +5,7 @@ import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.createSavedStateHandle
+import com.example.praktikumroomdb.viewmodel.EditViewModel
 import com.example.praktikumroomdb.viewmodel.EntryViewModel
 import com.example.praktikumroomdb.repositori.AplikasiSiswa
 import com.example.praktikumroomdb.viewmodel.DetailViewModel
@@ -20,6 +21,9 @@ object PenyediaViewModel {
         }
         initializer {
             DetailViewModel(this.createSavedStateHandle(),aplikasiSiswa().container.repositoriSiswa)
+        }
+        initializer {
+            EditViewModel(this.createSavedStateHandle(),aplikasiSiswa().container.repositoriSiswa)
         }
     }
 }

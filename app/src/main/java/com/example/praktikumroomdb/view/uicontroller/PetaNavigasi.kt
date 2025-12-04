@@ -15,6 +15,7 @@ import com.example.praktikumroomdb.view.EntrySiswaScreen
 import com.example.praktikumroomdb.view.HomeScreen
 import com.example.praktikumroomdb.view.route.DestinasiDetailSiswa
 import com.example.praktikumroomdb.view.route.DestinasiDetailSiswa.itemIdArg
+import com.example.praktikumroomdb.view.route.DestinasiEditSiswa
 import com.example.praktikumroomdb.view.route.DestinasiHome
 import com.example.praktikumroomdb.view.route.DestinasiEntry
 
